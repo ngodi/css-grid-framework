@@ -1,0 +1,124 @@
+/*CONTAINERS*/
+body{
+ font-family: sans-serif;
+ line-height: 30px;
+}
+
+.full-width{
+ width: 100%;
+ margin:auto;
+ padding:5px;
+}
+
+.partial-width{
+    width: 80%;
+    margin:auto;
+    padding:5px;
+}
+
+/*NAVIGATION*/
+.navigation{
+
+}
+
+.navigation a{
+    text-decoration: none;
+    color: black;
+    font-weight:bold;
+    margin-left:15px;
+    }
+/*SUB CONTAINERS*/
+
+.row{
+    clear:both;
+    margin:auto;
+}
+.col-1{
+  width: 8%;
+  float:left;
+}
+.col-2{
+    width: 16%; 
+    float:left; 
+}
+.col-3{
+    width: 24%;
+    float:left;
+}
+.col-4{
+    width: 32%;
+    float:left;
+}
+
+.col-5{
+  width: 40%;
+}
+
+.col-6{
+    width:48%;
+    float:left;
+}
+
+.col-7{
+    width:56%;
+    float:left;
+}
+.col-8{
+    width:64%;
+    float:left;
+}
+.col-9{
+   width:72%;
+}
+.col-10{
+    width:80%;
+}
+
+.col-11{
+    width:88%; 
+}
+
+.col-12{
+    width:96%; 
+}
+
+/*TEXT COLOR*/
+.text-white{
+    color:white;
+}
+.text-salmon{
+    color: lightsalmon;
+}
+
+/*BACKGROUND COLOR*/
+.back_lightgray{
+ background-color:red;
+}
+
+/*HYPERLINKS*/
+
+.btn{
+    padding: 5px 10px;
+}
+
+.btn-large{
+    padding:10px 20px;
+}
+
+/*ALIGNMENT*/
+
+.center{
+text-align:center;
+}
+
+.left{
+    text-align:left;
+}
+
+.right{
+    text-align:right;
+}
+
+/*FONT SIZES*/
+
+/*FONT WEIGHTS*/

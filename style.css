@@ -1,0 +1,174 @@
+.navigation{
+    margin-top:30px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.nav-box{
+    display:flex;
+    justify-content: space-between;
+}
+
+.img-main{
+    display:block;
+    width:100vw;
+    margin:auto;
+}
+.main_content{
+    margin-top:50px;
+    float: none !important;
+    text-align: center;
+}
+.main_content h2{
+   color:#CE9A7A; 
+   font-weight:normal;
+   font-size:40px;
+   padding: 50px 0;
+
+}
+
+
+.main_content p{
+  padding:10px 35%;
+  text-align: center;
+  margin-bottom:50px;
+  color:#818181;
+   
+}
+
+
+.developer img{
+    width:200px;
+}
+.parent-developer{
+    background:#F3F3F3;
+    width:100%;
+}
+
+.parent-developer h3{
+    padding: 50px 0;
+}
+.developer{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width:700px;
+    margin:auto;
+ 
+}
+
+.developer_item{
+    margin:10px;
+    background:white;
+    padding:5px;
+}
+
+.story-image img{
+    width:50px;
+    margin-right:20px;
+}
+
+
+.story-item{
+    display:flex;
+    justify-content: space-between;
+    width:70%;
+    margin-bottom:50px;
+   
+}
+
+.success{
+    margin: 0 auto;
+    background:linear-gradient(to top,#EEEEEE, #FDFDFD );
+    padding: 50px 120px;
+    width:100%;
+    box-sizing: border-box;
+
+}
+
+.success h2{
+    margin:100px 0;
+}
+footer{
+   height:50px;
+    margin:100px auto;
+}
+.footer-links{
+    display:flex;
+    justify-content: center;
+    margin-top:10px;
+}
+
+.footer-links a{
+    text-decoration: none;
+    color:#818181;
+    font-weight:bold;
+}
+
+.link{
+    margin-right:20px;
+}
+
+#signup{
+    font-weight: bold;
+    color:white;
+    background:#6ABFC3;
+    border:none;
+    padding:20px 70px;
+    border-radius:5px;
+    box-shadow:1px 2px 2px gray;
+
+}
+#full-curriculum{
+    font-weight: bold;
+    color:white;
+    background:#6ABFC3;
+    border:none;
+    padding:20px 70px;
+    border-radius:5px;
+    box-shadow:1px 2px 2px gray;
+    margin-bottom:50px;
+}
+#curriculum{
+    font-weight: bold;
+    color:white;
+    background:#D3A766;
+    border:none;
+    padding:20px 70px;
+    border-radius:5px;
+    box-shadow:1px 2px 2px gray;
+    margin:100px 0;
+}
+
+#signup:hover{
+    cursor: pointer;
+}
+
+.read a{
+    color:#818181;
+}
+
+.read h4{
+    color:#818181;
+    font-size:50px;
+    font-weight:normal;
+    margin:100px 0;
+}
+
+.main_content h3{
+ padding:50px 0;
+}
+
+.learn img{
+    width:200px;
+    height:200px;
+}
+
+.learn h5{
+    font-weight:bold;
+    font-size:20px;
+}
+
+.learn p{
+    padding:10px 150px;
+}
