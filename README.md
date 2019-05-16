@@ -3,7 +3,7 @@ The css grid framework project consists of a custom css layout framework, which 
 
 The live project canbe viewed here :
 
-https://http://raw.githack.com/ngodi/css-grid-framework/development/index.html
+https://raw.githack.com/ngodi/css-grid-framework/development/index.html
 
 ### Author:
 
