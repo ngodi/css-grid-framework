@@ -109,34 +109,11 @@ footer{
     margin-right:20px;
 }
 
-#signup{
-    font-weight: bold;
-    color:white;
-    background:#6ABFC3;
-    border:none;
-    padding:20px 70px;
-    border-radius:5px;
-    box-shadow:1px 2px 2px gray;
 
-}
 #full-curriculum{
-    font-weight: bold;
-    color:white;
-    background:#6ABFC3;
-    border:none;
-    padding:20px 70px;
-    border-radius:5px;
-    box-shadow:1px 2px 2px gray;
     margin-bottom:50px;
 }
 #curriculum{
-    font-weight: bold;
-    color:white;
-    background:#D3A766;
-    border:none;
-    padding:20px 70px;
-    border-radius:5px;
-    box-shadow:1px 2px 2px gray;
     margin:100px 0;
 }
 
