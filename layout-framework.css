@@ -5,13 +5,13 @@ body{
 }
 
 .full-width{
- width: 100vw;
+ max-width: 1362px;
  margin:auto;
  padding:5px;
 }
 
 .partial-width{
-    width: 80vw;
+   max-width: 1000px;
     margin:auto;
     padding:5px;
 }
@@ -35,47 +35,47 @@ body{
    justify-content: center;
 }
 .col-1{
- flex-basis: 8%;
+ max-width: 100px;
 }
 .col-2{
-    flex-basis: 16%;
+    max-width: 200px;
 }
 .col-3{
-    flex-basis: 24%
+    max-width: 300px;
 }
 .col-4{
-    flex-basis: 32%;
+    max-width: 400px;
 }
 
 .col-5{
-    flex-basis: 40%;
+    max-width: 500px;
     
 }
 
 .col-6{
-    flex-basis: 48%;
+    max-width: 600px;
   
 }
 
 .col-7{
-    flex-basis: 56%;
+    flex-basis: 700px;
 }
 .col-8{
-    flex-basis: 64%
+    flex-basis: 800px;
 }
 .col-9{
-    flex-basis: 72%;
+    flex-basis: 900px;
 }
 .col-10{
-    flex-basis: 80%;
+    max-width: 1000px;
 }
 
 .col-11{
-    flex-basis: 88%
+    max-width: 1100px;
 }
 
 .col-12{
-    flex-basis:96%;
+    max-width:1200px;
 }
 
 /*TEXT COLOR*/

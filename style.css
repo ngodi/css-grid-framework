@@ -11,11 +11,10 @@
 
 .img-main{
     display:block;
-    width:100vw;
-    margin:auto;
+    width:1300px;
 }
 .main_content{
-    margin-top:50px;
+    margin-top:50px auto;
     float: none !important;
     text-align: center;
 }
@@ -29,7 +28,7 @@
 
 
 .main_content p{
-  padding:10px 35%;
+  padding:10px 350px;
   text-align: center;
   margin-bottom:50px;
   color:#818181;
@@ -144,5 +143,5 @@ footer{
 }
 
 .learn p{
-    padding:10px 150px;
+    padding:10px 0;
 }
