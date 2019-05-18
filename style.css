@@ -117,6 +117,7 @@ footer{
 
 .read a{
     color:#818181;
+    text-decoration: underline;
 }
 
 .read h4{
@@ -142,4 +143,12 @@ footer{
 
 .learn p{
     padding:10px 0;
+}
+.icons{
+    margin:20px 150px;
+
+}
+
+.icons img {
+    max-width: 200px;
 }

@@ -17,11 +17,8 @@ body{
 }
 
 /*NAVIGATION*/
-.navigation{
 
-}
-
-.navigation a{
+a{
     text-decoration: none;
     color: black;
     font-weight:bold;
