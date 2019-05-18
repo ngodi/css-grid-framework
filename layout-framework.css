@@ -30,57 +30,52 @@ body{
 /*SUB CONTAINERS*/
 
 .row{
-    clear:both;
-    margin:auto;
-    width:100%;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
 }
 .col-1{
-  width: 8%;
-  float:left;
+ flex-basis: 8%;
 }
 .col-2{
-    width: 16%; 
-    float:left; 
+    flex-basis: 16%;
 }
 .col-3{
-    width: 24%;
-    float:left;
+    flex-basis: 24%
 }
 .col-4{
-    width: 32%;
-    float:left;
+    flex-basis: 32%;
 }
 
 .col-5{
-  width: 40%;
+    flex-basis: 40%;
+    
 }
 
 .col-6{
-    width:48%;
-    float:left;
+    flex-basis: 48%;
+  
 }
 
 .col-7{
-    width:56%;
-    float:left;
+    flex-basis: 56%;
 }
 .col-8{
-    width:64%;
-    float:left;
+    flex-basis: 64%
 }
 .col-9{
-   width:72%;
+    flex-basis: 72%;
 }
 .col-10{
-    width:80%;
+    flex-basis: 80%;
 }
 
 .col-11{
-    width:88%; 
+    flex-basis: 88%
 }
 
 .col-12{
-    width:96%; 
+    flex-basis:96%;
 }
 
 /*TEXT COLOR*/
