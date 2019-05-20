@@ -184,7 +184,7 @@ text-align:center;
     flex-wrap:wrap;
 }
 
-/*MARGIN CLASSES */
+/*MARGIN TOP CLASSES */
 
 .margin-top-100{
    margin-top:100px;
@@ -202,6 +202,57 @@ text-align:center;
  margin-top: 10px; 
 }
 
+/*MARGIN BOTTOM CLASSES */
 
+.margin-bottom-100{
+    margin-bottom:100px;
+ }
+ 
+ .margin-bottom-50{
+   margin-bottom: 50px;
+ }
+ 
+ .margin-bottom-25{
+   margin-bottom:25px; 
+ }
+ 
+ .margin-bottom-10{
+  margin-bottom: 10px; 
+ }
 
+ /*MARGIN LEFT CLASSES */
+
+.margin-left-100{
+    margin-left:100px;
+ }
+ 
+ .margin-left-50{
+   margin-left: 50px;
+ }
+ 
+ .marginleftp-25{
+   margin-left:25px; 
+ }
+ 
+ .margin-left-10{
+  margin-left: 10px; 
+ }
+
+ /*MARGIN RIGHT CLASSES */
+
+.margin-right-100{
+    margin-right:100px;
+ }
+ 
+ .marginrightp-50{
+   margin-right: 50px;
+ }
+ 
+ .margin-right-25{
+   margin-right:25px; 
+ }
+ 
+ .margin-right-10{
+  margin-right: 10px; 
+ }
 /*PADDING CLASSES */
