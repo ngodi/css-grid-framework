@@ -73,7 +73,7 @@ body{
     color:white;
 }
 .text-salmon{
-    color: lightsalmon;
+    color: #E2B162;
 }
 .lightgray{
     color:#818181;
@@ -144,11 +144,11 @@ text-align:center;
 }
 /*FONT SIZES*/
 .small{
-
+    font-size:20px;
 }
 
 .medium{
-
+    font-size:35px;
 }
 
 .large{
