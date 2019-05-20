@@ -81,6 +81,10 @@ body{
     background:white;
 }
 
+.back-lightgray{
+    background:#F3F3F3;
+}
+
 /*HYPERLINKS*/
 a{
     text-decoration: none;
