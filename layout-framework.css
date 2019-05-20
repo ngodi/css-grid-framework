@@ -16,14 +16,7 @@ body{
     padding:5px;
 }
 
-/*NAVIGATION*/
 
-a{
-    text-decoration: none;
-    color: black;
-    font-weight:bold;
-    margin-left:15px;
-    }
 /*SUB CONTAINERS*/
 
 .row{
@@ -55,13 +48,13 @@ a{
 }
 
 .col-7{
-    flex-basis: 700px;
+    max-width: 700px;
 }
 .col-8{
-    flex-basis: 800px;
+    max-width: 800px;
 }
 .col-9{
-    flex-basis: 900px;
+    max-width: 900px;
 }
 .col-10{
     max-width: 1000px;
@@ -84,10 +77,17 @@ a{
 }
 
 /*BACKGROUND COLOR*/
-
+.back-white{
+    background:white;
+}
 
 /*HYPERLINKS*/
-
+a{
+    text-decoration: none;
+    color: black;
+    font-weight:bold;
+    margin-left:15px;
+    }
 
 /*BUTTONS*/
 .btn-normal{
@@ -132,6 +132,9 @@ text-align:center;
     text-align:right;
 }
 
+.justify{
+    text-align:justify;
+}
 /*FONT SIZES*/
 
 /*FONT WEIGHTS*/
