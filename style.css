@@ -1,25 +1,10 @@
-.navigation{
-    margin-top:30px;
 
-}
 
 .img-main{
     max-width:1300px;
     width:100%;
 }
-.main_content{
-    margin-top:50px;
-}
-.main_content h2{
-    padding: 50px 0;
-}
 
-
-.main_content p{
-  padding:10px 0;
-  margin-bottom:50px;
-   
-}
 
 
 .developer_item{
@@ -36,11 +21,6 @@
     width:100%;
 }
 
-.parent-developer h3{
-    padding: 50px 0;
-}
-
-
 
 .story-image img{
     width:50px;
@@ -55,34 +35,8 @@
 .success{
   
     background:linear-gradient(to top,#EEEEEE, #FDFDFD );
-    padding:20px 0;
-
 }
 
-
-.success h2{
-    margin:100px 0;
-}
-footer{
-   height:50px;
-    margin:100px 0;
-}
-.footer-links{
-    margin-top:10px;
-}
-
-
-.link{
-    margin-right:20px;
-}
-
-
-#full-curriculum{
-    margin-bottom:50px;
-}
-#curriculum{
-    margin:100px 0;
-}
 
 #signup:hover{
     cursor: pointer;
