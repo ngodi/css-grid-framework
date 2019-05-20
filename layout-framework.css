@@ -162,3 +162,18 @@ text-align:center;
 .bolder{
     font-weight:bolder;
 }
+
+.flex-start{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flex-center{
+    display:flex;
+    justify-content: center;
+}
+
+.flex-between{
+    display: flex;
+    justify-content: space-between;
+}
