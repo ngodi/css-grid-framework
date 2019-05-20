@@ -140,5 +140,25 @@ text-align:center;
     text-align:justify;
 }
 /*FONT SIZES*/
+.small{
 
+}
+
+.medium{
+
+}
+
+.large{
+
+}
 /*FONT WEIGHTS*/
+.normal{
+    font-weight:normal;
+}
+.bold{
+    font-weight:bold;
+}
+
+.bolder{
+    font-weight:bolder;
+}
