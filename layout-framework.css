@@ -169,14 +169,39 @@ text-align:center;
 .flex-start{
     display: flex;
     justify-content: flex-start;
+    flex-wrap:wrap;
 }
 
 .flex-center{
     display:flex;
     justify-content: center;
+    flex-wrap:wrap;
 }
 
 .flex-between{
     display: flex;
     justify-content: space-between;
+    flex-wrap:wrap;
 }
+
+/*MARGIN CLASSES */
+
+.margin-top-100{
+   margin-top:100px;
+}
+
+.margin-top-50{
+  margin-top: 50px;
+}
+
+.margin-top-25{
+  margin-top:25px; 
+}
+
+.margin-top-10{
+ margin-top: 10px; 
+}
+
+
+
+/*PADDING CLASSES */

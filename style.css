@@ -3,8 +3,6 @@
 
 }
 
-
-
 .img-main{
     max-width:1300px;
     width:100%;
@@ -13,20 +11,16 @@
     margin-top:50px;
 }
 .main_content h2{
-    padding: 50px 10px;
+    padding: 50px 0;
 }
 
 
 .main_content p{
-  padding:10px 50px;
+  padding:10px 0;
   margin-bottom:50px;
    
 }
-.developer{
-    display: flex;
-    flex-wrap:wrap;
-    justify-content: center;
-}
+
 
 .developer_item{
     flex-basis: 30%;
@@ -77,11 +71,6 @@ footer{
     margin-top:10px;
 }
 
-.footer-links a{
-    
-    color:#818181;
-    font-weight:bold;
-}
 
 .link{
     margin-right:20px;
