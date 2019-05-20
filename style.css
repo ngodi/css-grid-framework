@@ -1,0 +1,74 @@
+
+
+.img-main{
+    max-width:1300px;
+    width:100%;
+}
+
+
+
+.developer_item{
+    flex-basis: 30%;
+    background:white;
+    margin:10px;
+}
+
+.developer_item img{
+    width:200px;
+}
+.parent-developer{
+    background:#F3F3F3;
+    width:100%;
+}
+
+
+.story-image img{
+    width:50px;
+    margin-right:20px;
+}
+
+
+.story-item{
+    margin:50px 10px;  
+}
+
+.success{
+  
+    background:linear-gradient(to top,#EEEEEE, #FDFDFD );
+}
+
+
+#signup:hover{
+    cursor: pointer;
+}
+
+.read a{
+    text-decoration: underline;
+}
+
+.read h4{
+    margin:100px 0;
+}
+
+.main_content h3{
+ padding:50px 0;
+}
+
+.learn img{
+    width:200px;
+    height:200px;
+}
+
+
+
+.learn p{
+    padding:10px 0;
+}
+.icons{
+    margin:20px 150px;
+
+}
+
+.icons img {
+    max-width: 200px;
+}
