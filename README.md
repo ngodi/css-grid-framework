@@ -28,17 +28,17 @@ Copy the layout-framework.css to your project and include file to the head secti
 ### Usage
 Add the desired classes to your project file to obtain the desired effect.
 The classes are grouped into:
--CONTAINERS
--SUBCONTAINERS
--TEXT COLOR
--BACKGROUND COLOR
--HYPERLINKS
--BUTTONS
--ALIGNMENT
--FONT-SIZE
--FONT-WEIGHT
--MARGINS
--PADDINGS
+>CONTAINERS
+>SUBCONTAINERS
+>TEXT COLOR
+>BACKGROUND COLOR
+>HYPERLINKS
+>BUTTONS
+>ALIGNMENT
+>FONT-SIZE
+>FONT-WEIGHT
+>MARGINS
+>PADDINGS
 
 
 👤 **Author**
