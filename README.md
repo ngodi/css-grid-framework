@@ -45,7 +45,7 @@ The classes are grouped into:
 Ngodi albert
 - Github: [@ngodi](https://github.com/ngodi)
 - Twitter: [@albertngodi](https://twitter.com/albertngodi)
-- Linkedin: [linkedin](https://www.linkedin.com/in/albert-ngodi-b80267174/)
+- Linkedin: [linkedin](https://www.linkedin.com/in/albertngodi/)
 
 ## 🤝 Contributing
 
@@ -56,20 +56,6 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-
-👤 **Author**
-Ngodi albert
-- Github: [@ngodi](https://github.com/ngodi)
-- Twitter: [@albertngodi](https://twitter.com/albertngodi)
-- Linkedin: [linkedin](https://www.linkedin.com/in/albert-ngodi-b80267174/)
-
 
 ## 📝 License
 
