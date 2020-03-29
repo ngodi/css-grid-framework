@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link of sample usage](https://raw.githack.com/ngodi/css-grid-framework/development/index.html)
+[Live Demo](https://raw.githack.com/ngodi/css-grid-framework/development/index.html)
 
 
 ## Getting Started
