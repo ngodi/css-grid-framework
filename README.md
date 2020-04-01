@@ -1,6 +1,6 @@
 # css-grid-framework
 
-> The css grid framework project consists of a custom css layout framework, which is part the microverse training program. The framework is then used the Odin webpage clone which is available here: https://www.theodinproject.com/.
+> The css grid framework project consists of a custom css layout framework, as part a practice project. The framework is then used the Odin webpage clone which is available here: https://www.theodinproject.com/.
 
 ![screenshot](./css-grid.png)
 
